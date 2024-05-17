@@ -1,0 +1,7 @@
+.box2{
+    background: linear-gradient(45deg, rgb(255, 0, 157),rgb(255, 166, 0)); width: fit-content;
+    color: white; 
+    padding: 10px;
+    border-radius: 10px; 
+    box-shadow: 6px 10.px 100px #aaaaaa;
+}
